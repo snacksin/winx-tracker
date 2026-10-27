@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Share image source. Render to og-cover.png (1200x630) after editing. -->
+  <defs>
+    <radialGradient id="pink" cx="0.12" cy="0" r="0.75"><stop offset="0" stop-color="#ffd9ee"/><stop offset="1" stop-color="#ffd9ee" stop-opacity="0"/></radialGradient>
+    <radialGradient id="lilac" cx="0.9" cy="0.08" r="0.7"><stop offset="0" stop-color="#dcd0ff"/><stop offset="1" stop-color="#dcd0ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="sky" cx="0.5" cy="1.05" r="0.7"><stop offset="0" stop-color="#d6ecff"/><stop offset="1" stop-color="#d6ecff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0328f"/><stop offset="0.55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#2f8fd8"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8cc6"/><stop offset="0.5" stop-color="#c3a6ff"/><stop offset="1" stop-color="#8fd0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f6eeff"/>
+  <rect width="1200" height="630" fill="url(#pink)"/>
+  <rect width="1200" height="630" fill="url(#lilac)"/>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <rect width="1200" height="10" fill="url(#bar)"/>
+  <g font-family="Arial Rounded MT Bold, Helvetica Neue, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="150" font-size="28" font-weight="700" letter-spacing="8" fill="#b0157a">KAYOU · FAIRY DIARY · SERIES 01</text>
+    <text x="600" y="290" font-size="128" font-weight="700" fill="url(#title)">Winx Club</text>
+    <text x="600" y="365" font-size="50" font-weight="700" fill="#3b2350">Card Collection Tracker</text>
+    <text x="600" y="455" font-size="30" font-weight="700" letter-spacing="4" fill="#6a5784">MAGIC  ·  DAILY  ·  155 CARDS</text>
+    <text x="600" y="545" font-size="27" font-weight="700" fill="#b0157a">winx-tracker.vercel.app</text>
+  </g>
+  <g fill="#ffb3d9">
+    <text x="190" y="210" font-size="40">✦</text>
+    <text x="985" y="180" font-size="34" fill="#c7b3ff">✦</text>
+    <text x="1040" y="400" font-size="26" fill="#9fd3ff">✦</text>
+    <text x="150" y="430" font-size="24" fill="#ffd36b">✦</text>
+  </g>
+</svg>
