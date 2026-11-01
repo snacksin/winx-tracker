@@ -5,6 +5,7 @@ A free, fan-made collection tracker and checklist for the Kayou *Winx Club: Fair
 - **Magic Edition** — 123 cards, 14 rarities
 - **Daily Edition** — 94 cards, 9 rarities
 - 62 cards are the same in both editions, so there are 155 different cards in total
+- Daily also has 3 PR box-topper cards (one free per box). They can be tracked but don't count toward the 94 or the progress bar
 
 Live at **https://winx-tracker.vercel.app/**
 
